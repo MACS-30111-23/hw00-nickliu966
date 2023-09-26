@@ -20,11 +20,12 @@ During my spare time, I enjoy
 - lying on my bed or couch watching youtube or netflix
 
 ## Image of a Premier League soccer game
-![]()
+![](/screenshot(579).png)
+
 ## Summary and reflection
 In this homework, my workflow starts with an introduction and then I add features as I see fit along the way. For example, I write My name is Zhenning Liu, where I thought it might be appropriate to bold the name to emphasize my identity (who is the owner of this page). If I encounter something I am not familiar with, I go to github docs where I find basic formatting syntax tips. Then I commit the change and push it. 
 
-In this homework I learn a lot of useful tips to format the markdown, namely how to include an image, 
+In this homework I learn a lot of useful tips to format the markdown, for example how to include a link or image. I also learn that it is important to organize the markdown page so that it seems natural, logical, and flows well -- just to make it clean and readable.
 
 something that suprises me is that the markdown can do so many things -- all without any buttons to click. 
 
