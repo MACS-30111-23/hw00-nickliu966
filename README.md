@@ -11,10 +11,22 @@ Edit this README file to include a brief biography of yourself. Your README shou
 
 # This is the first MACS30111 assignment
 ## Introduction
-My name is **Zhenning Liu**, a student in the 2023 MACSS cohort. I majored in psychology during my undergrad and is eagering to learn computing techniques to enable my research interest in cognitive psychology domain. 
+My name is **Zhenning Liu**, a student in the 2023 MACSS cohort. I majored in psychology during my undergrad and is eager to learn computing techniques to enable my research interest in cognitive psychology domain. 
+
+## What I like
 During my spare time, I enjoy 
 - gaming
-- 
+- sports
+- lying on my bed or couch watching youtube or netflix
+
+## Image of a Premier League soccer game
+![]()
+## Summary and reflection
+In this homework, my workflow starts with an introduction and then I add features as I see fit along the way. For example, I write My name is Zhenning Liu, where I thought it might be appropriate to bold the name to emphasize my identity (who is the owner of this page). If I encounter something I am not familiar with, I go to github docs where I find basic formatting syntax tips. Then I commit the change and push it. 
+
+In this homework I learn a lot of useful tips to format the markdown, namely how to include an image, 
+
+something that suprises me is that the markdown can do so many things -- all without any buttons to click. 
 
 
 ## 📚  Resources 
