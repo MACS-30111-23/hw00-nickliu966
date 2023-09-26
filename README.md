@@ -9,6 +9,12 @@ Edit this README file to include a brief biography of yourself. Your README shou
 * Links
 * A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.)
 
+# This is the first MACS30111 assignment
+## Introduction
+My name is **Zhenning Liu**, a student in the 2023 MACSS cohort. I majored in psychology during my undergrad and is eagering to learn computing techniques to enable my research interest in cognitive psychology domain. 
+During my spare time, I enjoy 
+- gaming
+- 
 
 
 ## 📚  Resources 
