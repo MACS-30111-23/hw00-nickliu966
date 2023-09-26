@@ -22,6 +22,9 @@ During my spare time, I enjoy
 ## Image of a Premier League soccer game
 ![](/screenshot(579).png)
 
+## Link to my GitHub Page
+[My GitHub Page](https://github.com/nickliu966)
+
 ## Summary and reflection
 - In this homework, my workflow starts with an introduction and then I add features as I see fit along the way. For example, I write My name is Zhenning Liu, where I thought it might be appropriate to bold the name to emphasize my identity (who is the owner of this page). If I encounter something I am not familiar with, I go to github docs where I find basic formatting syntax tips. Then I commit the change and push it. 
 
